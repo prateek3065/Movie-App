@@ -1,6 +1,6 @@
-This is a simple Movie App platform in which User can search for latest movie.
+This is a simple Movie App platform in which User can search for the latest movie.
 
-On getting the response from the API, their are many informations regarding each movie.
+On getting the response from the API, their are many information regarding each movie.
 I have displayed the
 
 1. Name of the movie
